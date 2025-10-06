@@ -1,0 +1,20 @@
+{
+  "miniapp": {
+    "version": "1",
+    "name": "Cubey",
+    "subtitle": "Your AI Ad Companion",
+    "description": "Ads",
+    "screenshotUrls": [
+      "https://new-mini-app-farcaster.vercel.app/screenshot-portrait.png"
+    ],
+    "iconUrl": "https://new-mini-app-farcaster.vercel.app/blue-icon.png",
+    "splashImageUrl": "https://new-mini-app-farcaster.vercel.app/blue-hero.png",
+    "splashBackgroundColor": "#000000",
+    "homeUrl": "https://new-mini-app-farcaster.vercel.app",
+    "webhookUrl": "https://new-mini-app-farcaster.vercel.app/api/webhook",
+    "primaryCategory": "social",
+    "tags": ["marketing","ads","quickstart","waitlist"],
+    "heroImageUrl": "https://new-mini-app-farcaster.vercel.app/blue-hero.png",
+    "ogImageUrl": "https://new-mini-app-farcaster.vercel.app/blue-hero.png"
+  }
+}
