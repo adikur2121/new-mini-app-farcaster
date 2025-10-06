@@ -1,0 +1,12 @@
+{
+  "accountAssociation": {
+    "header": "xxx",
+    "payload": "xxx",
+    "signature": "xxx"
+  },
+  "frame": {
+    "version": "1",
+    "name": "New Mini App",
+    "homeUrl": "https://new-mini-app-farcaster.vercel.app"
+  }
+}
